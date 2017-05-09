@@ -17,3 +17,6 @@ def feet_to_inches(feet):
     feet = inches * 3
     retrun inches
 
+def moles2atoms(mol):
+    atoms= mols*6.02e23
+    return atoms
