@@ -13,3 +13,7 @@ def gallons2liters(gallons):
     liters = gallons * 3.78541
     return liters
 
+def feet_to_inches(feet):
+    feet = inches * 3
+    retrun inches
+
